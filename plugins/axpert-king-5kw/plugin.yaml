@@ -1,0 +1,13 @@
+name: 'Axpert King 5kW Plugin'
+alias: 'axpert-king-5kw'
+creator: 'wax911'
+runtime:
+  main: 'main.py'
+  tests:
+    - 'tests/test_core.py'
+repository: 'https://github.com/wax911/mppt-solar-plugins/'
+description: 'Plugin for Axpert King inverters'
+version: '0.0.1'
+requirements:
+  - name: 'PyYAML'
+    version: '5.3.1'
