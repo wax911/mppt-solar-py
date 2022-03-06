@@ -1,4 +1,4 @@
-**mppt-solar**
+**mppt-solar-py**
 
 ### Overview
 
